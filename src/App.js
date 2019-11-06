@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome React JS.Feature extraction 1
+          Welcome React JS.Feature extraction 29000
         </p>
         <a
           className="App-link"
